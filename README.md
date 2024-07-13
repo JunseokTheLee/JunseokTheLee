@@ -8,8 +8,8 @@
 | Skill & Activity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Malware Analysis         |  Self-Hosted Malware Analysis Lab |
+| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
+| Malware Analysis         |  <a href="https://github.com/JunseokTheLee/JunseokTheLee/blob/main/mallab.png">Self-Hosted Malware Analysis Environment</a> |
 | Incident Response Planning and Execution      | |
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -34,12 +34,15 @@
 
 ### 📺 Latest Work
 
-<!-- BEGIN COMPANY CARDS -->
+#### Self-Hosted Malware Analysis Environment
+<img src="https://github.com/JunseokTheLee/JunseokTheLee/blob/main/mallab.png"  width="1000" height="504" />
 
 #
+
 ### 📺 Pentesting
 
 #
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
