@@ -43,6 +43,7 @@
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-00A4EF?&style=for-the-badge&color=black" />
 </div>
 
 ### Endpoint
