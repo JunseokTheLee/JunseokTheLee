@@ -11,7 +11,7 @@
 | Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Malware Analysis         |  <a href="https://github.com/JunseokTheLee/JunseokTheLee/blob/main/mallab.png">Self-Hosted Malware Analysis Environment</a> |
 | Incident Response Planning and Execution      | |
-| Case Management with TheHive                  | SOC Automation Lab|
+| Game Development & Design                  |<a href="https://github.com/JunseokTheLee/nlcsjexhibition">School Virtual Art Exhibition Project</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 #
 ###  Languages and Tools
